@@ -1,0 +1,74 @@
+body{
+	margin: 0;
+	background-color: silver;
+}
+header{
+	background-color: seagreen;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: orangered;
+}
+
+header h1{
+	font-size: 50px;
+	font-family: cursive, sans-serif;
+}
+
+
+header img {
+	border-radius: 200px;
+  max-width:250px;
+  border:10px solid orangered;
+}
+
+.FIRST{
+	text-align: center;
+	font-size: 60px;
+	font-family: dotgothic16, sans-serif;
+}
+main{
+	text-align: center;
+}
+
+main img{
+	width: 600px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.friends{
+	font-style: italic;
+	font-size: 20px;
+	margin-top: 0px; 
+	color: orangered;
+}
+.precaption{
+	padding-bottom: 0px;
+}
+.SECOND{
+	text-align: center;
+	font-size: 60px;
+	font-family: dotgothic16, sans-serif;
+}
+.ted{
+	text-align: center;
+	margin-top: 0px;
+}
+.ted2{
+	padding-bottom: 0px;
+}
+
+footer{
+	background-color: darkseagreen;
+	color: orangered;
+	text-align: center;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+footer a{
+	color: blueviolet;
+}
